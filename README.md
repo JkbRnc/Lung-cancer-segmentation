@@ -1,1 +1,1 @@
-# Lung_cancer_segmentation
+# Lung Cancer Segmentation
